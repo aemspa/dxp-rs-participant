@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/dxp-rs-participant/clientlibs"/>
+    <filter root="/apps/dxp-rs-participant/components"/>
+    <filter root="/apps/dxp-rs-participant/i18n"/>
+</workspaceFilter>
